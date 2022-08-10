@@ -4,7 +4,7 @@
   "private": "true",
   "description": "A clean, beautiful and responsive portfolio template for Developers, Customized by Uday!",
   "source": "index.html",
-  "main": "index.js",
+  
   "scripts": {
     "start": "parcel",
     "build": "parcel build"
